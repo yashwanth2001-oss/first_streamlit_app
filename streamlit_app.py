@@ -2,7 +2,7 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Dinner')
 
-Break fast menu
+Breakfast menu
 
 Omega 3 & Blueberry Datmeal
 Kale , Spinach & Rocket Smoothie
